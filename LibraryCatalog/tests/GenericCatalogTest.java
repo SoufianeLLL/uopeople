@@ -1,3 +1,7 @@
+package tests;
+
+import library.LibraryItem;
+import library.GenericCatalog;
 
 public class GenericCatalogTest {
 
