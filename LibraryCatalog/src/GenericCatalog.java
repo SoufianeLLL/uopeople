@@ -1,3 +1,4 @@
+package library;
 import java.util.HashMap;
 
 public class GenericCatalog<T extends LibraryItem> {
