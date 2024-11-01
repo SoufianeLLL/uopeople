@@ -1,7 +1,7 @@
 # Weather Information App
 This Weather Information App is a Java application that provides real-time weather updates using a graphical user interface (GUI). 
 
-![Weather App](https://i.ibb.co/1LLp7vF/Screen-Shot-2024-11-01-at-01-01-07.png)!
+![Weather App](https://i.ibb.co/rMB1Rqv/Screen-Shot-2024-11-01-at-01-31-26.png)
 
 ## Features
 - **Real-Time Weather Data:** Fetches weather data using the OpenWeatherMap API.
